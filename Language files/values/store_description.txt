@@ -1,5 +1,5 @@
-<b> Usa il tuo device Android per controllare il tuo Pc Windows o Mac - Controlla mouse, tastiera, media, slideshow e altro!</b>
-La Remote Control Collection è una raccolta di "telecomandi", che ti permette di controllare wireless il tuo PC Windows o Mac. Tutte le possibilità di controllo incluse nell'app, vanno ben oltre l'uso a distanza di mouse e tastiera!
+<b> Usa il tuo dispositivo Android per controllare il tuo Pc Windows o Mac - Controlla mouse, tastiera, multimedia, slideshow e altro!</b>
+La Remote Control Collection è una raccolta di comandi, che ti permette di controllare wireless il tuo PC Windows o Mac. Tutte le possibilità di controllo incluse nell'app, vanno ben oltre l'uso a distanza di mouse e tastiera!
 <br/>
 
 <b>Cosa dicono dell'App:</b>
@@ -29,10 +29,10 @@ TomsGuide.com:
 <br/>
 
 <b>Controllo del Mouse</b>
-Immaginate di avere il trackpad di un PC portatile, proprio sul vostro device Android. Gesture multitouch come lo scrolling e lo zoom sono supportate. Potrete attivare anche la tastiera, per scrivere quando vorrete.
+Immaginate di avere il trackpad di un PC portatile, proprio sul vostro dispositivo Android. Sono supportate anche gesture multitouch come lo scrolling e lo zoom. Potrete attivare anche la tastiera, per scrivere quando vorrete.
 
 <b>Controllo della Tastiera</b>
-Usate la tastiera Android o quella Windows ben riprodotta sull'App, per immettere parole sul vostro PC. Sono anche inclusi tasti importanti, come quello Windows, Esc e CTRL.
+Usate la tastiera Android o quella Windows riprodotta sull'App, per immettere parole sul vostro PC. Sono inclusi anche tasti importanti, come quello Windows, Esc e CTRL.
 
 <b>Riproduzione Live dello Schermo</b>
 Potrete riprodurre lo schermo del PC direttamente sul vostro dispositivo Android, controllando il mouse in tempo reale. 
@@ -41,16 +41,16 @@ Potrete riprodurre lo schermo del PC direttamente sul vostro dispositivo Android
 Controllate il vostro Media Player preferito! Sono supportati Windows Media Player, iTunes, VLC, Media Monkey, Songbird e tanti altri.
 
 <b>Controllo Slideshow</b>
-Controllate le slideshow direttamente dal vostro smartphone! Lo schermo del PC verrà riprodottu direttamente sul vostro smartphone in tempo reale! Funziona con Powerpoint, Impress e Adobe Reader, Windows Media Center e tanti altri.
+Controllate le slideshow direttamente dal vostro smartphone! Lo schermo del PC verrà riprodotto direttamente sul vostro dispositivo in tempo reale! Funziona con Powerpoint, Impress e Adobe Reader, Windows Media Center e tanti altri.
 
 <b>Riconoscimento Vocale</b>
-Dite semplicemente cosa vorreste scrivere sul vostro PC. Con la voce potrete anche controllare la riproduzione dei vostri media, dicendo ad esempio "skip this track" o "turn the volume up", per saltare rispettivamente traccia o alzare il volume.
+Dite semplicemente cosa vorreste scrivere sul vostro PC. Con la voce potrete anche controllare la riproduzione dei vostri file multimediali, dicendo ad esempio "salta questa traccia" o "aumenta il volume", per saltare rispettivamente traccia o alzare il volume.
 
 <b>Supportato dagli Smartwatch Android</b>
-Potrete controllare il PC direttamente dal vostro polso! Troppo comodo per le Slideshow o per controllare i vostri Media.
+Potrete controllare il PC direttamente dal vostro polso! Davvero comodo per le Slideshow o per controllare i vostri file multimediali.
 
 <b>Molto altro ancora</b>
-Il Remote Control Server è open source e può essere utilizzato per controllare ogni device della tua rete. Potrete usare quest'App per controllare ogni device internet-ready che possedete - come Arduino, Raspberry Pi e anche altri.<br/>
+Il Remote Control Server è open source e può essere utilizzato per controllare ogni dispositivo collegato alla tua rete. Potrete usare quest'App per controllare ogni device con connessione ad internet che possedete - come Arduino, Raspberry Pi e anche altri.<br/>
 
 <small>Perchè l'app Remote Control funzioni correttamente, avrete bisogno del Remote Control Server installato sul vostro PC. Potrete scaricarlo gratuitamente qui:
 http://server.android-remote.com
