@@ -1,78 +1,78 @@
-<b>Use your Android device as a remote for your Windows PC or Mac - Control the mouse, keyboard, media, presentations and more!</b>
-The Remote Control Collection is a compilation of remotes, which you can use to wirelessly control your Windows PC or Mac. The unified remotes enable you to control the PC beyond mouse and keyboard!
+<b> Usa il tuo device Android per controllare il tuo Pc Windows o Mac - Controlla mouse, tastiera, media, slideshow e altro!</b>
+La Remote Control Collection è una raccolta di "telecomandi", che ti permette di controllare wireless il tuo PC Windows o Mac. Tutte le possibilità di controllo incluse nell'app, vanno ben oltre l'uso a distanza di mouse e tastiera!
 <br/>
 
-<b>What others say:</b>
+<b>Cosa dicono dell'App:</b>
 DotTech.org:
-<i>Very responsive and very convenient to use</i>
+<i>Davvero veloce e molto comoda da usare</i>
 
 Chip.de:
-<i>Solid application with brilliant simplicity</i>
+<i>Applicazione solida, di una brillante semplicità</i>
 
 UnlockPWD.com:
-<i>There are many remotes out there, this one is on another level</i>
+<i>Sono inclusi molti tipi di controllo wireless, tutto un altro livello</i>
 
 Android-User.de:
-<i>Setting up this app is a no-brainer</i>
+<i>Trovare i giusti settaggi nell'App è semplicissimo</i>
 
 TomsGuide.com:
-<i>Top app for controlling your PC</i>
+<i>Miglior App per controllare il tuo PC</i>
 <br/>
 
-<b>Included remote controls are:</b>
+<b>I controlli a distanza inclusi sono:</b>
 -Mouse
--Keyboard
--Live Screen (Pro)
+-Tastiera
+-Riproduzione Schermo (Pro)
 -Media Player (Pro)
--Slideshows (Pro)
--Speech Recognition
+-Slideshow (Pro)
+-Riconoscimento Vocale
 <br/>
 
-<b>Mouse Remote</b>
-Imagine your PC’s touchpad right on your Android device. Multitouch gestures like scrolling and zooming are supported. You can toggle the keyboard to send keys at the same time.
+<b>Controllo del Mouse</b>
+Immaginate di avere il trackpad di un PC portatile, proprio sul vostro device Android. Gesture multitouch come lo scrolling e lo zoom sono supportate. Potrete attivare anche la tastiera, per scrivere quando vorrete.
 
-<b>Keyboard Remote</b>
-Use the physical or virtual Android keyboard to type characters and they will appear on your PC. Important keys like Windows, Escape and Control are also available.
+<b>Controllo della Tastiera</b>
+Usate la tastiera Android o quella Windows ben riprodotta sull'App, per immettere parole sul vostro PC. Sono anche inclusi tasti importanti, come quello Windows, Esc e CTRL.
 
-<b>Live Screen Remote</b>
-See your PC's screen live right on your Android device and control the mouse in real time. 
+<b>Riproduzione Live dello Schermo</b>
+Potrete riprodurre lo schermo del PC direttamente sul vostro dispositivo Android, controllando il mouse in tempo reale. 
 
-<b>Media Remote</b>
-Control the media player of your choice! Supported are Windows Media Player, iTunes, VLC, Media Monkey, Songbird and more.
+<b>Controllo dei Media Player</b>
+Controllate il vostro Media Player preferito! Sono supportati Windows Media Player, iTunes, VLC, Media Monkey, Songbird e tanti altri.
 
-<b>Slideshow Remote</b>
-Control your slideshows directly from your smartphone! The screen of your PC will be transmitted to your smartphone in real time! That works with Powerpoint, Impress and Adobe Reader, Windows Media Center and more.
+<b>Controllo Slideshow</b>
+Controllate le slideshow direttamente dal vostro smartphone! Lo schermo del PC verrà riprodottu direttamente sul vostro smartphone in tempo reale! Funziona con Powerpoint, Impress e Adobe Reader, Windows Media Center e tanti altri.
 
-<b>Speech recognition</b>
-Simply say what you want to be typed on your PC. You can also use voice commands to control your PC's media, e.g. "skip this track" or "turn the volume up".
+<b>Riconoscimento Vocale</b>
+Dite semplicemente cosa vorreste scrivere sul vostro PC. Con la voce potrete anche controllare la riproduzione dei vostri media, dicendo ad esempio "skip this track" o "turn the volume up", per saltare rispettivamente traccia o alzare il volume.
 
-<b>Android Wear Support</b>
-You can now control your PC directly from your wrist! Super handy for presentations or controlling a media player.
+<b>Supportato dagli Smartwatch Android</b>
+Potrete controllare il PC direttamente dal vostro polso! Troppo comodo per le Slideshow o per controllare i vostri Media.
 
-<b>Much more</b>
-The Remote Control Server is open source and can be used to control any device in your network. You can use this app to control all your internet of things (IOT) ready devices - like Arduino, Raspberry Pi and so on.<br/>
+<b>Molto altro ancora</b>
+Il Remote Control Server è open source e può essere utilizzato per controllare ogni device della tua rete. Potrete usare quest'App per controllare ogni device internet-ready che possedete - come Arduino, Raspberry Pi e anche altri.<br/>
 
-<small>To receive the commands from the Remote Control App, you will need the Remote Control Server. You can download it for free from:
+<small>Perchè l'app Remote Control funzioni correttamente, avrete bisogno del Remote Control Server installato sul vostro PC. Potrete scaricarlo gratuitamente qui:
 http://server.android-remote.com
 
-If you have trouble setting up a connection, follow this step-by-step guide or watch the video tutorial at: 
+Se avete qualche problema con la connessione del vostro device, seguite la guida o guardate il video tutorial che potete trovare qui: 
 http://setup.android-remote.com/
 
-Facebook fans can test the pro version for free:
+I nostri fan facebook potranno testare la versione pro gratuitamente:
 http://facebook.com/RemoteControlApps<br/>
 
-<b>Permissions:</b>
-Network
-For creating network sockets and using custom network protocols to connect with the pc.
+<b>Permessi richiesti:</b>
+Rete
+Per creare network sockets ed usare protocolli custom network per la connessione con il PC.
 
-Call information
-Is needed to create a unique device id. Used to verify purchases and register unlock codes.
+Informazioni Telefoniche
+E' necessario creare un unico ID device, per verificare acquisti e usare i codici di sblocco.
 
-Approximate location
-For analytics to improve localisation (translations, assets, etc.).
+Posizione approssimativa
+Per migliorare la posizione (traduzioni, risorse, ecc).
 
-Media & Files
-For caching to save network traffic.
+Media & File
+Per la memorizzazione della cache del traffico dati.
 
 Vibration
-For haptic feedback.</small>
+Per il feedback tattile.</small>
