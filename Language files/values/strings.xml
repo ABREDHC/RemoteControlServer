@@ -75,13 +75,13 @@
     <string name="remote_mouse_desc">Controlla il cursore del mouse come dal trackpad di un notebook</string>
     <string name="remote_keyboard_desc">Usa la tastiera del tuo device per scrivere sul tuo PC</string>
     <string name="remote_browser_desc">Azioni comuni per navigare sul web da remoto</string>
-    <string name="remote_desktop_desc">Guarda lo schermo del tuo PC in tempo reale sul tuo device</string>
+    <string name="remote_desktop_desc">Guarda lo schermo del tuo PC in tempo reale sul tuo dispositivo</string>
     <string name="remote_presenter_desc">Controlla le presentazioni e scorri le tue slideshow</string>
-    <string name="remote_shortcuts_desc">Accesso rapido alle shortcuts di Windows più usate</string>
+    <string name="remote_shortcuts_desc">Accesso rapido alle shortcut di Windows più usate</string>
     <string name="remote_voice_desc">Usa la tua voce per controllare il PC</string>
     <string name="remote_media_desc">Controlla i riproduttori multimediali più diffusi e l\'audio di sistema</string>
     <string name="remote_custom_desc">Stabilisci azioni personalizzate nel Remote Control Server</string>
-    <string name="remote_premium_desc">Sblocca tutti i comandi premium e le altre funzioni in arrivo</string>
+    <string name="remote_premium_desc">Sblocca tutti i comandi premium e le altre funzionalità in arrivo</string>
     <string name="remote_remove_ads_desc">Sbarazzati delle pubblicità e supporta gli sviluppatori</string>
 
     <!-- Tastiera -->
@@ -129,7 +129,7 @@
     <string name="upgrade_iap_get_desc">Gli upgrade acquistati non scompariranno e saranno disponibili in ogni vostro dispositivo.\n\nOgni upgrade rimuoverà le pubblicità.</string>
 
     <string name="upgrade_code_facebook_title">Facebook</string>
-    <string name="upgrade_code_facebook_description">Puoi ottenere un codice di sblocco gratuito dalla nostra pagina facebook, per cominciare.\n\nPer il ricevere il vostro codice, andate qui:\nhttp://code.android-remote.com</string>
+    <string name="upgrade_code_facebook_description">Puoi ottenere un codice di sblocco gratuito dalla nostra pagina facebook, per cominciare.\n\nPer ricevere il vostro codice, andate qui:\nhttp://code.android-remote.com</string>
     <string name="upgrade_code_google_title">Google+</string>
     <string name="upgrade_code_google_description">Se ti iscrivi come beta tester su Google+, riceverai anche un codice di prova gratuito.\n\nPer ricevere il vostro codice, andate qui:\nhttp://beta.android-remote.com</string>
     <string name="upgrade_code_ad_title">Video sponsorizzati</string>
@@ -186,11 +186,11 @@
     <string name="help_connect">Imposta una connessione</string>
     <string name="help_connect_desc">Segui questa guida per capire come impostare una connessione tra i tuoi dispositivi.</string>
     <string name="help_troubleshooting">Risoluzione dei problemi</string>
-    <string name="help_troubleshooting_desc">Se state avento problemi a seguire la guida, leggete qua per risolvere i problemi più comuni.</string>
+    <string name="help_troubleshooting_desc">Se stai avento problemi a seguire la guida, leggi qua per risolvere i problemi più comuni.</string>
     <string name="help_faq">Frequently asked questions</string>
-    <string name="help_faq_desc">Dubbi inerenti a quest\'App o al Remote Control Server potrebbero essere già stati risolti. Potrete comunque aggiungere le vostre domande qui.</string>
+    <string name="help_faq_desc">Dubbi inerenti a quest\'App o al Remote Control Server potrebbero essere già stati risolti. Potrai comunque aggiungere le tue domande qui.</string>
     <string name="help_support">Supporto</string>
-    <string name="help_support_desc">Se state avendo qualche problema, sentitevi liberi di contattarci. Vi risponderemo il prima possibile.\n\nLeggi però le guide e le FAQ prima di contattarci, grazie.</string>
+    <string name="help_support_desc">Se stai avendo qualche problema, sentiti libero di contattarci. Ti risponderemo il prima possibile.\n\nLeggi però le guide e le FAQ prima di contattarci, grazie.</string>
     <string name="help_feedback">Feedback</string>
     <string name="help_feedback_desc">Facci sapere cosa pensi, il tuo feedback aiuta molto per migliorare l\'App!</string>
 
@@ -225,15 +225,15 @@
 
     <!-- Updates -->
     <string name="update_server_required">Server update</string>
-    <string name="update_server_required_desc">Questa versione dell\'App richiede una nuova versione del Remote Control Server per funzionare correttamente.\n\nAggiornate il vostro Server o scaricate l\'ultima versione qui:\nhttp://server.android-remote.com</string>
+    <string name="update_server_required_desc">Questa versione dell\'App richiede una nuova versione del Remote Control Server per funzionare correttamente.\n\nAggiorna il tuo Server o scarica l\'ultima versione qui:\nhttp://server.android-remote.com</string>
 
     <!-- Suggerimenti -->
     <string name="hint_title">Lo sapevi?</string>
     <string name="hint_close_button">Capito</string>
     <string name="hint_mouse_multitouch">Puoi usare gesture multitouch per lo scrolling e lo zoom.</string>
     <string name="hint_media_volume_buttons">Puoi usare i tasti del volume per controllare l\'audio di sistema da remoto.</string>
-    <string name="hint_presenter_volume_buttons">Puoi usare i tasto del volume per passare da una slide all\'altra.</string>
-    <string name="hint_keyboard_advanced">Puoi fare uno swipe verso sinistra per mostrare altri tasti funzioni o scorciatoie avanzate.</string>
+    <string name="hint_presenter_volume_buttons">Puoi usare i tasti del volume per passare da una slide all\'altra.</string>
+    <string name="hint_keyboard_advanced">Puoi fare uno swipe verso sinistra per mostrare altri tasti funzione o scorciatoie avanzate.</string>
     <string name="hint_free_trial">Puoi provare gratuitamente la versione Pro attivando un condice di sblocco.\n\nVai su Upgrade per saperne di più.</string>
     <string name="hint_remove_ads">Puoi rimuovere la pubblicità attivando un qualsiasi comando premium.\n\nVai su Upgrade per saperne di più.</string>
     <string name="hint_feedback_title">Ti piace quest\'App?</string>
